@@ -1,1 +1,1 @@
-# random-quotes
+# random-quotes generator from API
